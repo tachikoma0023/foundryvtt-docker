@@ -3,9 +3,8 @@
 # FoundryVTT Docker
 
 <div align="center">
-  <a href="https://hub.docker.com/r/mbround18/foundryvtt-docker"><img src="https://img.shields.io/docker/pulls/mbround18/foundryvtt-docker?style=for-the-badge" alt="Docker Pulls"></a>
-  <a href="https://github.com/mbround18/foundryvtt-docker/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/mbround18/foundryvtt-docker?style=for-the-badge" alt="License"></a>
-  <a href="https://github.com/mbround18/foundryvtt-docker/stargazers"><img src="https://img.shields.io/github/stars/mbround18/foundryvtt-docker?style=for-the-badge" alt="GitHub Stars"></a>
+  <a href="https://github.com/tachikoma0023/foundryvtt-docker/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/mbround18/foundryvtt-docker?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/tachikoma0023/foundryvtt-docker/stargazers"><img src="https://img.shields.io/github/stars/tachikoma0023/foundryvtt-docker?style=for-the-badge" alt="GitHub Stars"></a>
 </div>
 
 ## Overview
